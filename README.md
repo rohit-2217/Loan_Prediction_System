@@ -30,6 +30,8 @@ Prediction: Once the models are trained, you can use them to make predictions on
 
 Model Evaluation: Evaluate the performance of the models by analyzing the provided metrics and visualizations.
 
+Note:- A csv file containing sample data for this system is attached in the repository.
+
 Contributions:
 
 Contributions and enhancements to the Loan Prediction System are welcome. If you have ideas for improving the system, implementing additional features, or optimizing the code, feel free to create pull requests or raise issues on the GitHub repository.
